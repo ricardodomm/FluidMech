@@ -1,0 +1,7 @@
+https://jupyter.org/try-jupyter/lab/
+
+Arrastar os ficheiros para o explorador do jupyter e de seguida clickar 2 x para abrir. Executar o notebook clickando em play.
+
+Alternativamente:
+
+https://github.com/ricardodomm/FluidMech
