@@ -1,7 +1,17 @@
 https://jupyter.org/try-jupyter/lab/
 
-Arrastar os ficheiros para o explorador do jupyter e de seguida clickar 2 x para abrir. Executar o notebook clickando em play.
+Arrastar os ficheiros para o explorador do jupyter e de seguida clickar 2 x para abrir. 
+Escolher XPython.
+Executar o notebook clickando na seta de play o número de vezes igual ao número de células.
 
-Alternativamente:
+Nota: caso o ficheiro tenha imagens essas imagens deverão ser também arrastadas para o explorador.
+
+
+
+
+
+
+
+Alternativamente os ficheiro podem ser obtidos de:
 
 https://github.com/ricardodomm/FluidMech
