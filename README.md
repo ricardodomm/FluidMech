@@ -1,2 +1,3 @@
-# FluidMech
-Fluid Mechanics Jupyter Notebooks 
+# Mecânica de Fluidos
+
+Jupyter Notebooks para Mecânica de Fluidos
